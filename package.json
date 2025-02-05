@@ -1,4 +1,5 @@
 {
+  "homepage": "https://SaSo3000.github.io/Portfolio",
   "name": "app",
   "version": "0.1.0",
   "private": true,
@@ -12,11 +13,11 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^4.2.4"
   },
-"homepage": "https://SaSo3000.github.io/Portfolio",
+
   "scripts": {
+    "start": "craco start",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "start": "craco start",
     "build": "craco build",
     "test": "craco test",
     "eject": "react-scripts eject"
