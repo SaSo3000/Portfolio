@@ -70,8 +70,8 @@ const Portfolio = () => {
         <ul className="grid grid-cols-2 gap-4">
           <li>Python, C/C++, JavaScript</li>
           <li>MERN Stack (MongoDB, Express.js, React.js, Node.js)</li>
-          <li>Microcontrollers, Raspberry Pi 4B, ESP8266/32</li>
-          <li>GPIO Control, RFID Modules, Circuit Design</li>
+          <li>Microcontrollers, Raspberry Pi 4B, ESP8266/32, FRDM K64F</li>
+          <li>RTOS, GPIO Control, RFID Modules, Circuit Design</li>
           <li>Linux, OpenCV, Arduino IDE</li>
           <li>Git, Visual Studio Code</li>
           <li>MQTT, I2C, SPI, UART</li>
