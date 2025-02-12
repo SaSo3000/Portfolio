@@ -101,8 +101,8 @@ const Portfolio = () => {
         <div>
             <h3 className="text-xl font-semibold text-indigo-700">Smart Door Lock System</h3>
             <p>
-            <br></br><b>Technologies:</b> Raspberry Pi 4B, mfrc522 RFID Tag Reader, I2S Display, Restart button, Python, OpenCV, numpy, (Pre built) face_recognition model<br></br>
-              <br></br>Door Lock System which is based on 2 factor verification process using RFID Tag/Scanner and Face Recognition using Raspberry PI 4B.<br></br>
+            <br></br><b>Technologies:</b> Raspberry Pi 4B, mfrc522 RFID Tag Reader, I2S Display, Reset button, Python, OpenCV, numpy, (Pre built) face_recognition model<br></br>
+              <br></br>Smart Door Lock System which is based on 2 factor verification process using RFID Tag/Scanner and Face Recognition using Raspberry PI 4B. I have also used I2S Display to display instrunctions to the user.<br></br>
             <br></br><b>RFID-Based Access Control:</b> Users must scan an authorized RFID tag to initiate authentication.<br></br>
             <br></br><b>Face Recognition Verification:</b> Captures and processes the user's face using OpenCV and a trained deep learning model.<br></br>
             <br></br><b>Raspberry Pi 4B as the Central Controller:</b>  Simply handles image processing, authentication logic, and door control.<br></br></p>
