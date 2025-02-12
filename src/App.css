@@ -194,10 +194,11 @@ border-radius: 10%;
 }
 
 #projects h3{
-  color: rgb(70, 69, 69);
+  color: rgb(43, 43, 43);
   text-decoration: underline;
   width: 100%;
   margin-right: 100%;
+  padding-right: 100%;
 }
 
 /* Section Styles */
