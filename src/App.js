@@ -84,8 +84,8 @@ const Portfolio = () => {
         <div className="space-y-6">
         <div>
             <h3 className="text-xl font-semibold text-indigo-700">Robocar Project: AI-Powered Autonomous Vehicle</h3>
-            <p>Robocar is a project I have built using Raspberry pi 4B and esp8266; using my own Image Recognition model to predict the direction of an Arrow. <br></br>Raspberry Pi 4B (Publisher): Captures images, processes them using a trained image recognition model, and publishes direction commands via MQTT. 
-              ESP8266 (Subscriber): Receives MQTT messages and controls motor actions accordingly.
+            <p>Robocar is a project I have built using Raspberry pi 4B and esp8266; using my own Image Recognition model to predict the direction of an Arrow. <br></br><b>Raspberry Pi 4B (Publisher):</b> Captures images, processes them using a trained image recognition model, and publishes direction commands via MQTT. 
+              <br></br><b>ESP8266 (Subscriber):</b> Receives MQTT messages and controls motor actions accordingly.<br></br>
               Optimized the system for low-latency communication and efficient power consumption.
               Ensured real-time decision-making with a lightweight neural network for edge computing.</p>
             <div className='a_div'>
