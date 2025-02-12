@@ -195,6 +195,8 @@ border-radius: 10%;
 
 #projects h3{
   color: rgb(70, 69, 69);
+  text-decoration: underline;
+  width: 100%;
 }
 
 /* Section Styles */
