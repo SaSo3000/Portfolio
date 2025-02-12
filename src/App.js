@@ -67,15 +67,14 @@ const Portfolio = () => {
       {/* Skills Section */}
       <section id="skills" className="max-w-4xl mx-auto mt-12 bg-white p-8 rounded shadow-lg text-gray-800">
         <h2 className="text-2xl font-bold text-indigo-900 mb-4">Skills</h2>
-        <ul className="grid grid-cols-2 gap-4">
-          <li>Python, C/C++, JavaScript</li>
-          <li>MERN Stack (MongoDB, Express.js, React.js, Node.js)</li>
-          <li>Microcontrollers, Raspberry Pi 4B, ESP8266/32, FRDM K64F</li>
-          <li>RTOS, GPIO Control, RFID Modules, Circuit Design</li>
-          <li>Linux, OpenCV, Arduino IDE</li>
-          <li>Git, Visual Studio Code</li>
-          <li>MQTT, I2C, SPI, UART</li>
-        </ul>
+        <ol className="grid grid-cols-2 gap-4">
+          <li><b>Cloud:</b> AWS(practitioner level) </li>
+          <li><b>Languages:</b> Python, C/C++, JavaScript, MERN Stack (MongoDB, Express.js, React.js, Node.js)</li>
+          <li><b>Embedded Boards:</b> Raspberry Pi 4B, ESP8266/32, FRDM K64F</li>
+          <li><b>Notions In:</b> RTOS, GPIO Control, RFID Modules, Circuit Design</li>
+          <li><b>Designing Tools:</b> Linux, OpenCV, Git, Visual Studio Code, Arduino- IDE</li>
+          <li><b>Busses and Protocols:</b> MQTT, I2C, SPI, UART</li>
+        </ol>
       </section>
 
       {/* Projects Section */}
