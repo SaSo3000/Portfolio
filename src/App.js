@@ -85,7 +85,7 @@ const Portfolio = () => {
             <h3 className="text-xl font-semibold text-indigo-700">Robocar Project: AI-Powered Autonomous Vehicle</h3>
             <p>
             <br></br><b>Technologies:</b> Raspberry Pi 4B, ESP8266, MQTT, Python, OpenCV, PyTorch, Embedded C<br></br>
-              Robocar is a project I have built using Raspberry pi 4B and esp8266; using my own Image Recognition model to predict the direction of an Arrow. <br></br><br></br><b>Raspberry Pi 4B (Publisher):</b> Captures images, processes them using a trained image recognition model, and publishes direction commands via MQTT. 
+             <br></br> Robocar is a project I have built using Raspberry pi 4B and esp8266; using my own Image Recognition model to predict the direction of an Arrow. <br></br><br></br><b>Raspberry Pi 4B (Publisher):</b> Captures images, processes them using a trained image recognition model, and publishes direction commands via MQTT. 
               <br></br><br></br><b>ESP8266 (Subscriber):</b> Receives MQTT messages and controls motor actions accordingly.<br></br><br></br>
               Optimized the system for low-latency communication and efficient power consumption.
               Ensured real-time decision-making with a lightweight neural network for edge computing.</p>
