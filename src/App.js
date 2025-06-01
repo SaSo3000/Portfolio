@@ -73,7 +73,7 @@ const Portfolio = () => {
           <li><b>Embedded Boards:</b> Raspberry Pi 4B, ESP8266/32, FRDM K64F</li>
           <li><b>Notions In:</b> RTOS, GPIO Control, RFID Modules, Circuit Design, Yocto Project, Embedded Linux</li>
           <li><b>Tools:</b> Linux, OpenCV, Git, Visual Studio Code, Arduino- IDE, MCUXpresso IDE</li>
-          <li><b>communication Protocols:</b> MQTT, I2C, SPI, UART</li>
+          <li><b>Communication Protocols:</b> MQTT, I2C, SPI, UART</li>
         </ol>
       </section>
 
