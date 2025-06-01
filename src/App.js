@@ -69,11 +69,11 @@ const Portfolio = () => {
         <h2 className="text-2xl font-bold text-indigo-900 mb-4">Skills</h2>
         <ol className="grid grid-cols-2 gap-4">
           <li><b>Cloud:</b> AWS(practitioner level) </li>
-          <li><b>Languages:</b> Python, C/C++, JavaScript, MERN Stack (MongoDB, Express.js, React.js, Node.js)</li>
+          <li><b>Languages:</b> Python, C/C++, C#, JavaScript, MERN Stack (MongoDB, Express.js, React.js, Node.js)</li>
           <li><b>Embedded Boards:</b> Raspberry Pi 4B, ESP8266/32, FRDM K64F</li>
-          <li><b>Notions In:</b> RTOS, GPIO Control, RFID Modules, Circuit Design</li>
-          <li><b>Designing Tools:</b> Linux, OpenCV, Git, Visual Studio Code, Arduino- IDE</li>
-          <li><b>Busses and Protocols:</b> MQTT, I2C, SPI, UART</li>
+          <li><b>Notions In:</b> RTOS, GPIO Control, RFID Modules, Circuit Design, Yocto Project, Embedded Linux</li>
+          <li><b>Tools:</b> Linux, OpenCV, Git, Visual Studio Code, Arduino- IDE, MCUXpresso IDE</li>
+          <li><b>communication Protocols:</b> MQTT, I2C, SPI, UART</li>
         </ol>
       </section>
 
