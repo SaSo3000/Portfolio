@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
 import { Linkedin, Github } from 'lucide-react';
-import linkedinImage from './images/linkedin2-removebg-preview (4).jpg';
+import linkedinImage from './images/Image.jpg';
 
 const scrollToSection = (id) => {
   const section = document.getElementById(id);
@@ -112,6 +112,26 @@ const Portfolio = () => {
             </a>
             <a href="https://github.com/SaSo3000/Smart_Door-Lock-System.git" target="_blank" rel="noreferrer" className="text-pink-500 hover:underline">
               View Code
+            </a>
+            </div>
+          </div>
+          <div>
+            <h3 className="text-xl font-semibold text-indigo-700">EdgeLink SecureComm</h3>
+            <p>
+            <br></br><b>Technologies:</b> Raspberry Pi 4B, ESP32, Yocto Poky, MQTT (Mosquitto), nano, vi, ssh, sftp, hostapd, wpa_supplicant, dhcpd, python3, pip, ipkg, USB-to-TTL Serial<br></br>
+
+<br></br><b>EdgeLink SecureComm — An Industrial IoT Gateway for Secure Device Communication:</b> A secure, offline-capable IIoT gateway developed as part of my embedded systems and IoT journey. It enables seamless communication between edge devices while meeting Industry 4.0 standards.<br></br>
+
+<br></br><b>Custom Yocto Image for Raspberry Pi:</b> Built a lightweight, secure Linux system including essential tools for remote access and network configuration. The Raspberry Pi 4B functions as a local Wi-Fi AP with static IP (192.168.4.1), allowing direct ESP32 connections without external network infrastructure.<br></br>
+
+<br></br><b>Security-Focused Architecture:</b> Designed with an isolated local network, encrypted MQTT messaging, and optional TLS support. Supports offline peer-to-peer communication and serial-based debugging through USB-to-TTL for secure headless operation.<br></br>
+
+<br></br><b>Use Cases:</b> Ideal for edge computing in smart factories, secure coordination of field devices like sensors/actuators, and decentralized control systems in predictive maintenance or automation workflows.<br></br>
+
+<br></br>Proud to align this project with key Industry 4.0 principles: decentralization, secure communication, and edge interoperability.<br></br></p>
+            <div className='a_div'>
+            <a href="https://www.linkedin.com/posts/saunak-patel-789b18226_industry40-iotsecurity-edgecomputing-activity-7344614072350294016-WCww?utm_source=share&utm_medium=member_desktop&rcm=ACoAADjDL1kBNu-oibxxvuDdUWvKY5fC9DddrdA" target="_blank" rel="noreferrer" className="text-pink-500 hover:underline">
+              View Project
             </a>
             </div>
           </div>
