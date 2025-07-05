@@ -167,7 +167,7 @@ const Portfolio = () => {
 
       {/* Footer */}
       <footer className="text-center mt-12 mb-6 text-gray-300">
-        <p>Saunak Patel | saunak3000@gmail.com | +1 (437) 429 2259</p>
+        <p>Saunak Patel | saunak3000@gmail.com</p>
         <p className="text-sm mt-2">Looking forward to collaborating on innovative projects!</p>
       </footer>
     </div>
